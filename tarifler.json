@@ -1,0 +1,1909 @@
+[
+    {
+        "tarif_id": 1,
+        "tarif_adi": "Menemen",
+        "kategori": "Kahvaltılık",
+        "hazirlama_suresi": 48,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Domates",
+                "miktar": "300 g"
+            },
+            {
+                "malzeme_adi": "Yeşil biber",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Yumurta",
+                "miktar": "3 adet"
+            },
+            {
+                "malzeme_adi": "Soğan",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Sıvı yağ",
+                "miktar": "30 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Karabiber",
+                "miktar": "2 g"
+            },
+            {
+                "malzeme_adi": "Pul biber",
+                "miktar": "3 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Soğanı ince ince doğrayın, biberi küçük halkalar veya küpler halinde kesin.",
+            "Tavaya sıvı yağı alın ve orta ateşte ısıtın; soğanları pembeleşene kadar kavurun.",
+            "Biberleri ekleyin, 3-4 dakika daha kavurun.",
+            "Domatesleri rendeleyin veya küçük küpler halinde doğrayın; tavaya ekleyin.",
+            "Tuz, karabiber ve pul biberi ekleyin; domatesler suyunu çekene kadar 8-10 dakika pişirin.",
+            "Yumurtaları kırın, beyazları ve sarıları çatalla hafifçe karıştırın ama çok fazla karıştırmayın.",
+            "Kısık ateşte, yumurtalar istediğiniz kıvama gelene kadar pişirin; hemen servis edin."
+        ],
+        "puf_nokta": "Menemenin sırrı domateslerin iyice pişirilmesi ve yumurtaların gereğinden fazla karıştırılmamasıdır. Kısık ateşte, ağır ağır pişirmek lezzeti katlayarak artırır."
+    },
+    {
+        "tarif_id": 2,
+        "tarif_adi": "Simit Çanağında Yumurta",
+        "kategori": "Kahvaltılık",
+        "hazirlama_suresi": 48,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Simit",
+                "miktar": "2 adet"
+            },
+            {
+                "malzeme_adi": "Yumurta",
+                "miktar": "4 adet"
+            },
+            {
+                "malzeme_adi": "Kaşar peyniri (rendelenmiş)",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Tereyağı",
+                "miktar": "20 g"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Karabiber",
+                "miktar": "2 g"
+            },
+            {
+                "malzeme_adi": "Maydanoz",
+                "miktar": "10 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Fırını 180°C'ye önceden ısıtın.",
+            "Simitleri ortadan ikiye kesin; iç kısımlarını hafifçe bastırarak çanak şekli oluşturun.",
+            "Fırın tepsisine yerleştirin, iç yüzeylerine tereyağı sürün.",
+            "Her simit çanağına kaşar peynirinin yarısını serpin.",
+            "Üzerine dikkatlice birer yumurta kırın; sarıları bütün kalsın.",
+            "Kalan kaşarı üzerine serpin, tuz ve karabiber ekleyin.",
+            "Önceden ısıtılmış fırında 12-15 dakika, yumurta beyazları pişene sarısı hafif akışkan kalana dek pişirin.",
+            "Fırından çıkarıp taze maydanoz serpin ve sıcak servis edin."
+        ],
+        "puf_nokta": "Yumurtayı direkt kırıp dökmek yerine önce küçük bir kaseye kırın, ardından simitin üzerine kaydırın; böylece sarısı kırılmaz ve daha düzgün görünür."
+    },
+    {
+        "tarif_id": 3,
+        "tarif_adi": "Avokadolu Tost",
+        "kategori": "Kahvaltılık",
+        "hazirlama_suresi": 56,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Tam buğday ekmeği",
+                "miktar": "2 dilim (yaklaşık 80 g)"
+            },
+            {
+                "malzeme_adi": "Avokado (olgun)",
+                "miktar": "1 adet (yaklaşık 150 g)"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "10 ml"
+            },
+            {
+                "malzeme_adi": "Cherry domates",
+                "miktar": "60 g"
+            },
+            {
+                "malzeme_adi": "Lor peyniri",
+                "miktar": "50 g"
+            },
+            {
+                "malzeme_adi": "Pul biber",
+                "miktar": "2 g"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "10 ml"
+            },
+            {
+                "malzeme_adi": "Taze fesleğen",
+                "miktar": "5 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Ekmek dilimlerini tost makinesinde veya tavada kızartın.",
+            "Olgun avokadoyu ikiye bölün, çekirdeği çıkarın ve eti bir kaba alın.",
+            "Limon suyunu, tuzu ve pul biberi ekleyin; çatalla istediğiniz kıvamda ezin.",
+            "Lor peynirini ekmeklerin üzerine yayın.",
+            "Ezilmiş avokadoyu peynirin üzerine gezdirin.",
+            "Cherry domatesleri ikiye keserek üzerine yerleştirin.",
+            "Zeytinyağı gezdirin, taze fesleğen yaprakları ekleyin ve hemen servis edin."
+        ],
+        "puf_nokta": "Avokado hava ile temas edince hızla kararır; limon suyunu eklemeyi unutmayın ve hazırladıktan sonra bekletmeden hemen tüketin."
+    },
+    {
+        "tarif_id": 4,
+        "tarif_adi": "Peynirli Gözleme",
+        "kategori": "Kahvaltılık",
+        "hazirlama_suresi": 56,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Un",
+                "miktar": "300 g"
+            },
+            {
+                "malzeme_adi": "Su (ılık)",
+                "miktar": "150 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Beyaz peynir (ufalanmış)",
+                "miktar": "200 g"
+            },
+            {
+                "malzeme_adi": "Maydanoz",
+                "miktar": "20 g"
+            },
+            {
+                "malzeme_adi": "Tereyağı",
+                "miktar": "30 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Unu, tuzu ve ılık suyu karıştırarak kulak memesi kıvamında yumuşak bir hamur yoğurun; 15 dakika dinlendirin.",
+            "Beyaz peyniri ufalayın, maydanozu ince kıyın ve ikisini karıştırın.",
+            "Hamurdan ceviz büyüklüğünde parçalar alın, merdane ile mümkün olduğunca ince yuvarlak açın.",
+            "Açılan hamurun yarısına peynirli harcı yayın, diğer yarısını kapatın.",
+            "Tereyağlı saç veya yapışmaz tavayı orta ateşte ısıtın.",
+            "Gözlemeyi her iki yüzü de altın rengi olana kadar 2-3 dakika pişirin.",
+            "Sıcakken tereyağı sürerek servis edin."
+        ],
+        "puf_nokta": "Hamuru ne kadar ince açarsanız gözleme o kadar çıtır olur. Hamurun kenarlarını iyice kapatın ki pişerken peynir dışarı akmasın."
+    },
+    {
+        "tarif_id": 5,
+        "tarif_adi": "Yulaf Ezmeli Muzlu Smoothie Bowl",
+        "kategori": "Kahvaltılık",
+        "hazirlama_suresi": 40,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Muz (dondurulmuş)",
+                "miktar": "200 g"
+            },
+            {
+                "malzeme_adi": "Yulaf ezmesi",
+                "miktar": "50 g"
+            },
+            {
+                "malzeme_adi": "Süt veya badem sütü",
+                "miktar": "100 ml"
+            },
+            {
+                "malzeme_adi": "Yoğurt",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Bal",
+                "miktar": "15 g"
+            },
+            {
+                "malzeme_adi": "Taze çilek",
+                "miktar": "60 g"
+            },
+            {
+                "malzeme_adi": "Granola",
+                "miktar": "40 g"
+            },
+            {
+                "malzeme_adi": "Chia tohumu",
+                "miktar": "10 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Yulaf ezmesini süt veya badem sütüyle ıslatın ve 5 dakika bekletin.",
+            "Dondurulmuş muzu, yoğurt, bal ve ıslanmış yulafı blendere alın.",
+            "Kıvamlı ve kremamsı olana kadar blende edin; çok sıvı olursa az buz ekleyin.",
+            "Karışımı bir kaseye dökün.",
+            "Üzerine taze çilekleri, granolayı ve chia tohumunu güzelce yerleştirin.",
+            "Dilerseniz biraz bal gezdirin ve hemen servis edin."
+        ],
+        "puf_nokta": "Muzları önceden dondurursanız hem çok daha soğuk ve kremamsı bir kıvam elde edersiniz hem de buz eklemek zorunda kalmazsınız. Olgun muzlar daha tatlı ve lezzetli olur."
+    },
+    {
+        "tarif_id": 6,
+        "tarif_adi": "Mercimek Çorbası",
+        "kategori": "Çorbalar",
+        "hazirlama_suresi": 56,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Kırmızı mercimek",
+                "miktar": "250 g"
+            },
+            {
+                "malzeme_adi": "Soğan",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Havuç",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Patates",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Tereyağı",
+                "miktar": "30 g"
+            },
+            {
+                "malzeme_adi": "Sıvı yağ",
+                "miktar": "20 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "8 g"
+            },
+            {
+                "malzeme_adi": "Kimyon",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Pul biber",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Et veya sebze suyu",
+                "miktar": "1500 ml"
+            },
+            {
+                "malzeme_adi": "Limon",
+                "miktar": "1 adet"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Soğan ve havucu küçük doğrayın; tereyağı ve sıvı yağı bir tencerede eritin.",
+            "Soğanları camlaşana kadar kavurun, havuç ve patatesi ekleyip 2-3 dakika daha kavurun.",
+            "Yıkanmış kırmızı mercimeği ekleyin, et veya sebze suyunu dökün.",
+            "Tuz, kimyon ve pul biberi ekleyin; kaynayınca kısın, 20-25 dakika mercimekler iyice yumuşayana dek pişirin.",
+            "Ateşten alıp blender veya el blenderiyle pürüzsüz hale getirin.",
+            "Gerekirse su ekleyerek kıvamı ayarlayın, tekrar ısıtın.",
+            "Servis ederken limon sıkın, isterseniz üzerine tereyağında kızdırılmış pul biber gezdirin."
+        ],
+        "puf_nokta": "Çorbayı blenderden geçirmeden önce biraz soğutun; sıcak sıvıyı kapalı blendere doldurmak tehlikeli olabilir. El blenderi kullanmak hem daha pratik hem de daha güvenlidir."
+    },
+    {
+        "tarif_id": 7,
+        "tarif_adi": "Domates Çorbası",
+        "kategori": "Çorbalar",
+        "hazirlama_suresi": 56,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Olgun domates",
+                "miktar": "700 g"
+            },
+            {
+                "malzeme_adi": "Soğan",
+                "miktar": "120 g"
+            },
+            {
+                "malzeme_adi": "Sarımsak",
+                "miktar": "3 diş (yaklaşık 10 g)"
+            },
+            {
+                "malzeme_adi": "Tereyağı",
+                "miktar": "30 g"
+            },
+            {
+                "malzeme_adi": "Un",
+                "miktar": "20 g"
+            },
+            {
+                "malzeme_adi": "Et suyu (veya su)",
+                "miktar": "500 ml"
+            },
+            {
+                "malzeme_adi": "Süt",
+                "miktar": "150 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "7 g"
+            },
+            {
+                "malzeme_adi": "Şeker",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Karabiber",
+                "miktar": "2 g"
+            },
+            {
+                "malzeme_adi": "Taze fesleğen",
+                "miktar": "10 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Soğan ve sarımsağı ince doğrayın; tereyağında pembeleşene kadar kavurun.",
+            "Unu ekleyip 1-2 dakika karıştırarak kavurun.",
+            "Domatesleri küp küp doğrayın ve tencereye ekleyin; şeker, tuz ve karabiberi ilave edin.",
+            "Et suyu veya suyu dökün; kaynayınca orta ateşte 15 dakika pişirin.",
+            "Sütü ekleyip 5 dakika daha pişirin.",
+            "Blenderdan geçirip süzgeçten geçirerek pürüzsüz hale getirin.",
+            "Taze fesleğen yaprakları ve istenirse krema ile servis edin."
+        ],
+        "puf_nokta": "Domatesler ne kadar olgunsa çorba o kadar tatlı ve lezzetli olur. Kış aylarında kutu domates kullanabilirsiniz; kaliteli bir marka seçin."
+    },
+    {
+        "tarif_id": 8,
+        "tarif_adi": "Ezogelin Çorbası",
+        "kategori": "Çorbalar",
+        "hazirlama_suresi": 56,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Kırmızı mercimek",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Bulgur (ince)",
+                "miktar": "50 g"
+            },
+            {
+                "malzeme_adi": "Pirinç",
+                "miktar": "30 g"
+            },
+            {
+                "malzeme_adi": "Soğan",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Domates salçası",
+                "miktar": "20 g"
+            },
+            {
+                "malzeme_adi": "Biber salçası",
+                "miktar": "10 g"
+            },
+            {
+                "malzeme_adi": "Tereyağı",
+                "miktar": "30 g"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "8 g"
+            },
+            {
+                "malzeme_adi": "Kırmızı pul biber",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Nane (kuru)",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Su veya et suyu",
+                "miktar": "1500 ml"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Mercimek, bulgur ve pirinci yıkayıp süzün.",
+            "Soğanı küçük doğrayın; tereyağında pembeleşene kadar kavurun.",
+            "Domates ve biber salçasını ekleyip 2 dakika kavurun.",
+            "Mercimek, bulgur, pirinci ve suyu tencereye alın; kaynayınca köpüğü alın.",
+            "Tuz, pul biber ve kuru naneyi ekleyin; kısık ateşte 25-30 dakika pişirin.",
+            "Kıvama göre su ekleyin; çorba koyu ama akışkan olmalı.",
+            "Tereyağında kızdırılmış pul biber ve nane ile servis edin."
+        ],
+        "puf_nokta": "Ezogelin çorbasının püf noktası salçayı yağda iyice kavurmaktır; bu adım çorbanın rengini ve aromasını derinleştirir. Naneyi de tereyağında bir an kavurursanız çok daha nefis kokar."
+    },
+    {
+        "tarif_id": 9,
+        "tarif_adi": "Kremalı Mantar Çorbası",
+        "kategori": "Çorbalar",
+        "hazirlama_suresi": 64,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Kültür mantarı",
+                "miktar": "400 g"
+            },
+            {
+                "malzeme_adi": "Soğan",
+                "miktar": "120 g"
+            },
+            {
+                "malzeme_adi": "Sarımsak",
+                "miktar": "2 diş (yaklaşık 7 g)"
+            },
+            {
+                "malzeme_adi": "Tereyağı",
+                "miktar": "40 g"
+            },
+            {
+                "malzeme_adi": "Un",
+                "miktar": "25 g"
+            },
+            {
+                "malzeme_adi": "Tavuk veya sebze suyu",
+                "miktar": "600 ml"
+            },
+            {
+                "malzeme_adi": "Krema (sıvı)",
+                "miktar": "150 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "7 g"
+            },
+            {
+                "malzeme_adi": "Karabiber",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Kekik",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Maydanoz",
+                "miktar": "10 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Mantarları ıslak bezle temizleyin (yıkamayın), ince dilimleyin.",
+            "Soğan ve sarımsağı küçük doğrayın; tereyağında kavurun.",
+            "Mantarları ekleyin, suları buharlaşana kadar yüksek ateşte kavurun.",
+            "Unu serpin ve karıştırarak 1 dakika kavurun.",
+            "Tavuk veya sebze suyunu yavaş yavaş ekleyerek karıştırın.",
+            "Kaynayınca kremayı ekleyin; tuz, karabiber ve kekik ilave edin.",
+            "Kısık ateşte 10 dakika pişirin; blenderdan kısmen geçirin (tamamen pürüzsüz istemezseniz birkaç mantar parçası bırakın).",
+            "Maydanoz serpin ve sıcak servis edin."
+        ],
+        "puf_nokta": "Mantarları yüksek ateşte az miktarda kızartmak (fazla doldurmamak) çok önemli; düşük ateşte ya da kalabalık tavada pişirilirse buharda pişmiş gibi olur ve lezzeti azalır."
+    },
+    {
+        "tarif_id": 10,
+        "tarif_adi": "Yayla Çorbası",
+        "kategori": "Çorbalar",
+        "hazirlama_suresi": 56,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Yoğurt",
+                "miktar": "400 g"
+            },
+            {
+                "malzeme_adi": "Pirinç",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Su veya et suyu",
+                "miktar": "1000 ml"
+            },
+            {
+                "malzeme_adi": "Yumurta",
+                "miktar": "1 adet"
+            },
+            {
+                "malzeme_adi": "Un",
+                "miktar": "20 g"
+            },
+            {
+                "malzeme_adi": "Tereyağı",
+                "miktar": "30 g"
+            },
+            {
+                "malzeme_adi": "Kuru nane",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Pul biber",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "7 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Pirinci su veya et suyunda 15-20 dakika yumuşayana kadar pişirin.",
+            "Yoğurt, yumurta ve unu bir kapta iyice çırpın; bu karışım yoğurdun kesilmesini önler.",
+            "Pirinçli suyu ateşten alın, biraz soğutun.",
+            "Yoğurtlu karışımı kepçe kepçe alıp sıcak suyla ısıtarak tencereye ekleyin; sürekli karıştırın.",
+            "Tencereyi tekrar ateşe alın, kısık ateşte sürekli karıştırarak kaynamasını bekleyin.",
+            "Tuz ekleyin; kaynayınca kısa süre daha pişirip ateşten alın.",
+            "Tereyağında kuru nane ve pul biberi kızdırarak üzerine gezdirin."
+        ],
+        "puf_nokta": "Yoğurt kesilmesin diye tenceredeki sıcak suyla önce yoğurdu ısıtmanız (temperleme) şarttır. Ateşe aldıktan sonra hiç bırakmadan karıştırın."
+    },
+    {
+        "tarif_id": 11,
+        "tarif_adi": "Fırın Tavuk But",
+        "kategori": "Ana Yemekler",
+        "hazirlama_suresi": 48,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Tavuk but (kemikli)",
+                "miktar": "800 g"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "40 ml"
+            },
+            {
+                "malzeme_adi": "Sarımsak",
+                "miktar": "4 diş (yaklaşık 15 g)"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "30 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "10 g"
+            },
+            {
+                "malzeme_adi": "Karabiber",
+                "miktar": "4 g"
+            },
+            {
+                "malzeme_adi": "Kekik",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Pul biber",
+                "miktar": "4 g"
+            },
+            {
+                "malzeme_adi": "Köy usulü domates",
+                "miktar": "200 g"
+            },
+            {
+                "malzeme_adi": "Patates",
+                "miktar": "300 g"
+            },
+            {
+                "malzeme_adi": "Biber",
+                "miktar": "150 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Fırını 200°C'ye ısıtın.",
+            "Zeytinyağı, limon suyu, ezilmiş sarımsak, tuz, karabiber, kekik ve pul biberi karıştırarak marine sosu hazırlayın.",
+            "Tavuk butları bıçakla birkaç yerinden çizin; marinade sosunu iyice ovarak tüm yüzeye yedirin.",
+            "Mümkünse 1-2 saat (veya gece boyunca) buzdolabında marine edin.",
+            "Fırın tepsisine domatesleri, dilimlediğiniz patatesleri ve biberleri yayın, tuz ve zeytinyağı ekleyin.",
+            "Tavuk butları sebzelerin üzerine yerleştirin.",
+            "Önceden ısıtılmış fırında 40-45 dakika, tavukların üzeri kızarana dek pişirin.",
+            "Ara sıra tavukların üzerine tepsideki suyunu kaşıkla gezdirin."
+        ],
+        "puf_nokta": "Tavuğu önceden marine etmek hem içine işlemesini sağlar hem de deri altına kadar lezzetlenmesini kolaylaştırır. Pişirme süresinin son 10 dakikasında fırını grile alırsanız deri çok daha çıtır olur."
+    },
+    {
+        "tarif_id": 12,
+        "tarif_adi": "İzmir Köfte",
+        "kategori": "Ana Yemekler",
+        "hazirlama_suresi": 64,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Dana kıyma (yağlı)",
+                "miktar": "500 g"
+            },
+            {
+                "malzeme_adi": "Bayat ekmek içi (ıslatılmış)",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Soğan (rendelenmiş)",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Yumurta",
+                "miktar": "1 adet"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "8 g"
+            },
+            {
+                "malzeme_adi": "Karabiber",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Kimyon",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Patates",
+                "miktar": "400 g"
+            },
+            {
+                "malzeme_adi": "Domates",
+                "miktar": "300 g"
+            },
+            {
+                "malzeme_adi": "Yeşil biber",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Domates salçası",
+                "miktar": "30 g"
+            },
+            {
+                "malzeme_adi": "Sıvı yağ",
+                "miktar": "30 ml"
+            },
+            {
+                "malzeme_adi": "Su",
+                "miktar": "200 ml"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Kıymayı bayat ekmek içi, rendelenmiş soğan, yumurta, tuz, karabiber ve kimyonla yoğurun.",
+            "En az 15-20 dakika yoğurun; hamur kıvamında birbirine yapışan bir karışım elde edin.",
+            "Buzdolabında 30 dakika dinlendirin.",
+            "Dinlenen kıymadan parmak şeklinde köfteler şekillendirin.",
+            "Tavada az yağla her tarafını mühürleyin (tamamen pişirmeden).",
+            "Domates salçasını su ile karıştırın; tepsiye mühürlenmiş köfteleri, dilimlenmiş domatesleri, biberleri ve patatesleri dizin.",
+            "Salçalı suyu dökün; 180°C fırında 35-40 dakika pişirin."
+        ],
+        "puf_nokta": "Köfteyi fırına vermeden önce tavada mühürlemek, suyunu içinde tutar ve çok daha sulu kalmasını sağlar. Yoğurma süresi ne kadar uzun olursa köfte o kadar bütünleşik ve lezzetli olur."
+    },
+    {
+        "tarif_id": 13,
+        "tarif_adi": "Karnıyarık",
+        "kategori": "Ana Yemekler",
+        "hazirlama_suresi": 64,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Patlıcan (orta boy)",
+                "miktar": "4 adet (yaklaşık 800 g)"
+            },
+            {
+                "malzeme_adi": "Dana kıyma",
+                "miktar": "250 g"
+            },
+            {
+                "malzeme_adi": "Soğan",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Domates",
+                "miktar": "250 g"
+            },
+            {
+                "malzeme_adi": "Yeşil biber",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Sarımsak",
+                "miktar": "3 diş"
+            },
+            {
+                "malzeme_adi": "Domates salçası",
+                "miktar": "20 g"
+            },
+            {
+                "malzeme_adi": "Sıvı yağ (kızartma için)",
+                "miktar": "300 ml"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "30 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "8 g"
+            },
+            {
+                "malzeme_adi": "Karabiber",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Maydanoz",
+                "miktar": "15 g"
+            },
+            {
+                "malzeme_adi": "Su",
+                "miktar": "100 ml"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Patlıcanları alacalı soyun, tuzlu suda 20 dakika bekletin; bu acılığını alır.",
+            "Kurulayın ve bol yağda her tarafını kızartın; kağıt havlu üzerinde yağını süzün.",
+            "İç harç için soğan ve sarımsağı kavurun, kıymayı ekleyip suyunu çekene kadar pişirin.",
+            "Doğranmış domates, biber ve salçayı ekleyin; 5-10 dakika daha pişirin, tuz ve karabiberi ilave edin.",
+            "Kızarmış patlıcanları fırın kabına dizin, ortalarını boyuna yırtın.",
+            "Her patlıcanın içine harçtan doldurun; üzerine domates dilimleri koyun.",
+            "100 ml su ve biraz zeytinyağı dökerek 180°C fırında 25-30 dakika pişirin.",
+            "Taze maydanozla servis edin."
+        ],
+        "puf_nokta": "Patlıcanı tuzlu suda bekletme adımını atlamamak önemlidir; hem acılığını giderir hem de kızarırken daha az yağ çekmesini sağlar."
+    },
+    {
+        "tarif_id": 14,
+        "tarif_adi": "Levrek Izgara",
+        "kategori": "Ana Yemekler",
+        "hazirlama_suresi": 48,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Levrek (temizlenmiş)",
+                "miktar": "600 g (2 adet)"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "40 ml"
+            },
+            {
+                "malzeme_adi": "Limon",
+                "miktar": "2 adet"
+            },
+            {
+                "malzeme_adi": "Sarımsak",
+                "miktar": "3 diş"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "8 g"
+            },
+            {
+                "malzeme_adi": "Karabiber",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Kekik",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Taze biberiye",
+                "miktar": "2 dal"
+            },
+            {
+                "malzeme_adi": "Kapari veya zeytinyağlı salata",
+                "miktar": "isteğe bağlı"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Levrek balıklarının içini ve dışını iyice yıkayıp kurulayın.",
+            "Zeytinyağı, limon suyu, ezilmiş sarımsak, tuz, karabiber ve kekiği karıştırın.",
+            "Bu karışımı balığın hem içine hem dışına sürün; 20-30 dakika marine edin.",
+            "Izgarayı ya da bir döküm tavayı yüksek ateşte ısıtın.",
+            "Balıkları ızgaraya koyun; alt tarafa yapışmaması için ilk birkaç dakika hareket ettirmeyin.",
+            "Her iki tarafını 5-7'şer dakika, balık kolayca pul pul ayrılana kadar pişirin.",
+            "Taze biberiye dalları ve limon dilimleriyle servis edin."
+        ],
+        "puf_nokta": "Balığı ızgaraya koymadan önce ızgaranın çok iyi ısınmış olması şarttır; aksi takdirde yapışır. Pişerken zorla çevirmek balığı parçalar; sabırla beklemeniz yeterli, hazır olunca kendiliğinden ayrılır."
+    },
+    {
+        "tarif_id": 15,
+        "tarif_adi": "Sebzeli Kuskus",
+        "kategori": "Ana Yemekler",
+        "hazirlama_suresi": 64,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Kuskus",
+                "miktar": "250 g"
+            },
+            {
+                "malzeme_adi": "Kaynar su veya tavuk suyu",
+                "miktar": "300 ml"
+            },
+            {
+                "malzeme_adi": "Kabak",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Havuç",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Kırmızı biber",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Soğan",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Sarımsak",
+                "miktar": "2 diş"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "40 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "7 g"
+            },
+            {
+                "malzeme_adi": "Kimyon",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Zerdeçal",
+                "miktar": "2 g"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "20 ml"
+            },
+            {
+                "malzeme_adi": "Taze maydanoz veya nane",
+                "miktar": "15 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Kuskusu derin bir kaba alın, üzerine kaynar su veya tavuk suyunu, tuzu ve zeytinyağının yarısını ekleyin.",
+            "Üzerini örtün ve 5 dakika demlenmeye bırakın; sonra çatalla kabartın.",
+            "Sebzeleri (kabak, havuç, kırmızı biber) küçük küpler halinde, soğan ve sarımsağı ince ince doğrayın.",
+            "Kalan zeytinyağında önce soğan ve sarımsağı kavurun.",
+            "Havucu ekleyip 3 dakika kavurun, ardından diğer sebzeleri ilave edin.",
+            "Kimyon, zerdeçal, tuz ekleyin; sebzeler yumuşayana kadar 8-10 dakika pişirin.",
+            "Kavrulan sebzeleri kuskusla karıştırın, limon suyu ekleyin.",
+            "Taze maydanoz veya nane serpin, oda sıcaklığında veya sıcak servis edin."
+        ],
+        "puf_nokta": "Kuskusu kaynar suyun içine atmak yerine kaynar suyu kuskusun üzerine dökmek ve demlenmeye bırakmak çok daha hafif ve dağınık bir kıvam verir."
+    },
+    {
+        "tarif_id": 16,
+        "tarif_adi": "Sütlaç",
+        "kategori": "Tatlılar",
+        "hazirlama_suresi": 56,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Pirinç",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Su",
+                "miktar": "400 ml"
+            },
+            {
+                "malzeme_adi": "Süt (tam yağlı)",
+                "miktar": "1000 ml"
+            },
+            {
+                "malzeme_adi": "Şeker",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Nişasta",
+                "miktar": "40 g"
+            },
+            {
+                "malzeme_adi": "Vanilya",
+                "miktar": "1 paket (5 g)"
+            },
+            {
+                "malzeme_adi": "Tarçın (servis için)",
+                "miktar": "5 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Pirinci soğuk suda yıkayın; 400 ml su ile birlikte tencereye alın.",
+            "Orta ateşte pirinçler suyu çekene ve yumuşayana kadar pişirin.",
+            "Sütü ekleyin, sürekli karıştırarak kısık ateşte ısıtın.",
+            "Şekeri ve vanilyayı ekleyin.",
+            "Nişastayı birkaç kaşık soğuk sütle eritin; ince bir akıntı halinde tencereye ekleyin.",
+            "Sürekli karıştırarak 10-12 dakika, kıvam tutana kadar pişirin.",
+            "Fırın kaplarına dökün; soğuyunca buzdolabına alın.",
+            "Servis öncesi fırının üst ısıtıcısında (gril) üzerini kızartın, tarçın serpin."
+        ],
+        "puf_nokta": "Nişastayı soğuk sütle iyice eritip tencereye ince bir şekilde eklemek top oluşmasını önler. Karıştırmayı bırakmak sütlacın dibinin tutmasına neden olur; sabırla karıştırın."
+    },
+    {
+        "tarif_id": 17,
+        "tarif_adi": "Brownie",
+        "kategori": "Tatlılar",
+        "hazirlama_suresi": 64,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Tereyağı",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Bitter çikolata (%70)",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Şeker",
+                "miktar": "200 g"
+            },
+            {
+                "malzeme_adi": "Yumurta",
+                "miktar": "3 adet"
+            },
+            {
+                "malzeme_adi": "Un",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Kakao tozu (şekersiz)",
+                "miktar": "30 g"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "2 g"
+            },
+            {
+                "malzeme_adi": "Vanilya özü",
+                "miktar": "5 ml"
+            },
+            {
+                "malzeme_adi": "Ceviz (isteğe bağlı)",
+                "miktar": "80 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Fırını 170°C'ye ısıtın; 20x20 cm kek kalıbını yağlayıp unlayın veya yağlı kağıt döşeyin.",
+            "Tereyağını ve bitter çikolatayı benmari usulü veya mikrodalgada eritin; soğumaya bırakın.",
+            "Yumurtaları ve şekeri elektrikli çırpıcıyla 3-4 dakika köpürene kadar çırpın.",
+            "Soğumuş çikolatalı karışımı yavaşça yumurta karışımına ekleyin.",
+            "Unu, kakao tozunu, tuzu ve vanilyayı eleyin; yavaş hareketlerle karışıma katlayın.",
+            "İsterseniz cevizleri de ekleyin.",
+            "Kaba dökün ve 20-22 dakika pişirin; kürdan çıkınca hafif nemli gelmeli, bu normaldir.",
+            "Tamamen soğutmadan kesmeyim; soğuyunca çok daha kolay kesilir."
+        ],
+        "puf_nokta": "Brownie'nin nemli ve fudgy olmasının sırrı az pişirmektir. Kürdan tamamen temiz çıkıyorsa fazla pişmiş demektir; hafif ıslak çıktığında fırından alın, dinlenince mükemmel kıvama gelir."
+    },
+    {
+        "tarif_id": 18,
+        "tarif_adi": "Kazandibi",
+        "kategori": "Tatlılar",
+        "hazirlama_suresi": 56,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Süt (tam yağlı)",
+                "miktar": "1000 ml"
+            },
+            {
+                "malzeme_adi": "Şeker",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Nişasta (pirinç nişastası)",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Un",
+                "miktar": "30 g"
+            },
+            {
+                "malzeme_adi": "Tavuk göğsü (haşlanmış, liflenmiş)",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Tereyağı",
+                "miktar": "20 g"
+            },
+            {
+                "malzeme_adi": "Vanilya",
+                "miktar": "1 paket"
+            },
+            {
+                "malzeme_adi": "Tarçın",
+                "miktar": "5 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Tavuk göğsünü haşlayın; liflerine ayırarak mümkün olduğunca ince ince didikleyin.",
+            "Süt, şeker, un ve nişastayı tencerede karıştırın; orta ateşte sürekli karıştırarak pişirin.",
+            "Karışım koyulaşmaya başlayınca didiklenmiş tavuğu ve vanilyayı ekleyin.",
+            "Muhallebi kıvamına gelince ateşten alın.",
+            "Geniş ve düz dipli bir tencereyi veya tavayı yağlayın; tereyağı sürün.",
+            "Yüksek ateşte tabanı kahverengileşene dek ısıtın; muhallebiyi üzerine dökün.",
+            "Ateşi kısın, alt taraf yanmadan yanık iz bırakacak şekilde pişirin.",
+            "Soğuyunca ters çevirin; tarçın serpin ve servis edin."
+        ],
+        "puf_nokta": "Kazandibinin yanık tabanının oluşması kontrollü bir işlemdir; tencereyi çok ısıtırsanız yanar, az ısıtırsanız renk çıkmaz. Tencerede küçük bir köşeyi kaldırıp renge bakmanız yeterlidir."
+    },
+    {
+        "tarif_id": 19,
+        "tarif_adi": "Elmalı Turta",
+        "kategori": "Tatlılar",
+        "hazirlama_suresi": 64,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Un",
+                "miktar": "300 g"
+            },
+            {
+                "malzeme_adi": "Tereyağı (soğuk)",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Şeker (hamur için)",
+                "miktar": "50 g"
+            },
+            {
+                "malzeme_adi": "Yumurta sarısı",
+                "miktar": "2 adet"
+            },
+            {
+                "malzeme_adi": "Soğuk su",
+                "miktar": "30 ml"
+            },
+            {
+                "malzeme_adi": "Elma",
+                "miktar": "700 g (4-5 adet)"
+            },
+            {
+                "malzeme_adi": "Şeker (iç harcı için)",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Tarçın",
+                "miktar": "8 g"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "15 ml"
+            },
+            {
+                "malzeme_adi": "Nişasta veya un",
+                "miktar": "20 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Soğuk tereyağını unla parmaklarınızla ufalayarak ekmek kırıntısı kıvamına getirin.",
+            "Şeker, yumurta sarısı ve soğuk suyu ekleyin; hızlıca hamur haline getirin; buzdolabında 30 dakika dinlendirin.",
+            "Elmaları soyun, ince dilimleyin; limon suyu, şeker, tarçın ve nişasta ile karıştırın.",
+            "Hamuru ikiye bölün; birini unlu yüzeyde açarak tart kalıbına döşeyin.",
+            "Elmalı harcı içine doldurun.",
+            "Kalan hamuru açarak üzerini kapatın, kenarlarını sıkıştırın; üstüne birkaç delik açın.",
+            "180°C fırında 40-45 dakika altın rengi olana kadar pişirin.",
+            "En az 30 dakika soğutup dilimleyin."
+        ],
+        "puf_nokta": "Soğuk tereyağı ve soğuk su kullanmak hamuru çıtır yapar; ellerinizin ısısı tereyağını eritebilir, bu yüzden hızlı çalışın. Hamuru fazla yoğurmak glüten geliştirir ve kek gibi sert olmasına neden olur."
+    },
+    {
+        "tarif_id": 20,
+        "tarif_adi": "Panna Cotta",
+        "kategori": "Tatlılar",
+        "hazirlama_suresi": 56,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Krema (sıvı tam yağlı)",
+                "miktar": "500 ml"
+            },
+            {
+                "malzeme_adi": "Süt",
+                "miktar": "200 ml"
+            },
+            {
+                "malzeme_adi": "Şeker",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Jelatin (toz)",
+                "miktar": "10 g"
+            },
+            {
+                "malzeme_adi": "Soğuk su (jelatin için)",
+                "miktar": "50 ml"
+            },
+            {
+                "malzeme_adi": "Vanilya özü",
+                "miktar": "5 ml"
+            },
+            {
+                "malzeme_adi": "Taze çilek veya ahududu",
+                "miktar": "200 g"
+            },
+            {
+                "malzeme_adi": "Şeker (sos için)",
+                "miktar": "40 g"
+            },
+            {
+                "malzeme_adi": "Limon suyu (sos için)",
+                "miktar": "10 ml"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Jelatini soğuk suda 5 dakika bekletin.",
+            "Kremayı, sütü ve şekeri orta ateşte karıştırarak ısıtın; kaynamasına izin vermeyin.",
+            "Ateşten alın, şişmiş jelatini sıkıp karışıma ekleyin; iyice çırpın.",
+            "Vanilyayı ekleyin.",
+            "Kalıplara veya kâselere dökün; oda sıcaklığında soğutun, ardından buzdolabında en az 4 saat bekletin.",
+            "Sos için çilek veya ahududu ile şekeri küçük bir tencerede karıştırın; ezilerek 5 dakika pişirin, limon suyu ekleyin.",
+            "Servis öncesi kalıpları sıcak suya 10 saniye tutup ters çevirin veya kâsede sunun.",
+            "Meyve sosunu üzerine dökerek servis edin."
+        ],
+        "puf_nokta": "Kremayı kaynatabileceğinizi sanmayın; kaynamak yağı ayırır. Hafif tüten, hafif buğulanan sıcaklık yeterlidir. Jelatin miktarını aşmamak da önemli; fazla jelatin lastik gibi bir kıvam yaratır."
+    },
+    {
+        "tarif_id": 21,
+        "tarif_adi": "Türk Çayı",
+        "kategori": "İçecekler",
+        "hazirlama_suresi": 48,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Dökme çay (Rize)",
+                "miktar": "15 g"
+            },
+            {
+                "malzeme_adi": "Su (kaynar)",
+                "miktar": "500 ml (demlik için)"
+            },
+            {
+                "malzeme_adi": "Su (kaynar)",
+                "miktar": "1000 ml (altlık için)"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Çaydanlığın alt bölümüne yeteri kadar su koyun ve kaynatın.",
+            "Üst demliğe çay yapraklarını koyun.",
+            "Kaynayan suyu üst demliğe biraz dökün, kapağını kapatın.",
+            "Kalan suyu alt bölümde sıcak tutun; üst demliği altın üzerine yerleştirin.",
+            "En az 15-20 dakika kısık ateşte demlendirin.",
+            "İnce belli bardağa önce demli çayı, ardından alt kazandan sıcak suyu ilave ederek koyuluğu ayarlayın."
+        ],
+        "puf_nokta": "İyi çayın sırrı sabırdır; en az 15 dakika demlenmelidir. Çay yapraklarının kalitesi ve suyun kireç oranı lezzeti doğrudan etkiler; mümkünse filtrelenmiş su kullanın."
+    },
+    {
+        "tarif_id": 22,
+        "tarif_adi": "Limonata",
+        "kategori": "İçecekler",
+        "hazirlama_suresi": 48,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Taze limon",
+                "miktar": "4 adet (yaklaşık 200 ml limon suyu)"
+            },
+            {
+                "malzeme_adi": "Şeker",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Su (şerbet için)",
+                "miktar": "100 ml"
+            },
+            {
+                "malzeme_adi": "Soğuk su",
+                "miktar": "700 ml"
+            },
+            {
+                "malzeme_adi": "Buz",
+                "miktar": "200 g"
+            },
+            {
+                "malzeme_adi": "Nane yaprağı",
+                "miktar": "10 yaprak"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Limonları iyice yıkayın; 4 limonun kabuklarını rendeleyin, tümünü sıkıp suyunu alın.",
+            "Şeker ve 100 ml suyu küçük bir tencerede karıştırın; şeker eriyene kadar ısıtın (kaynamaya gerek yok).",
+            "Şurubu soğutun.",
+            "Limon suyu ve lemon kabuğu rendesini şuruba ekleyin.",
+            "Soğuk su ve buz dolu bir sürahiye dökün.",
+            "Nane yapraklarını ekleyip servis edin."
+        ],
+        "puf_nokta": "Limon kabuğunu rendelerken yalnızca sarı kısmı alın; beyaz iç kısım acı verir. Şurubu önceden hazırlayıp buzdolabında saklamanız, anlık limonata yapmanızı kolaylaştırır."
+    },
+    {
+        "tarif_id": 23,
+        "tarif_adi": "Türk Kahvesi",
+        "kategori": "İçecekler",
+        "hazirlama_suresi": 40,
+        "malzemeler": [
+            {
+                "malzeme_adi": "İnce çekilmiş Türk kahvesi",
+                "miktar": "10 g (2 çay kaşığı)"
+            },
+            {
+                "malzeme_adi": "Su",
+                "miktar": "70 ml (1 fincan)"
+            },
+            {
+                "malzeme_adi": "Şeker (isteğe bağlı)",
+                "miktar": "5-10 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Cezveye kahveyi ve isteğe göre şekeri koyun.",
+            "Soğuk suyu (70 ml) ekleyin ve karıştırın.",
+            "Orta-kısık ateşte, hiç karıştırmadan ısıtın.",
+            "Köpük yüzeyde yükselmeye başlayınca cezveyi ateşten alın; köpüğü kaşıkla fincanın üzerine aktarın.",
+            "Cezveyi tekrar ateşe alın; ikinci kaynamada kahveyi fincanın üzerine dökerek servis edin.",
+            "2-3 dakika bekleyip dibi çöktükten sonra için."
+        ],
+        "puf_nokta": "Türk kahvesinin köpüğü prestij meselesidir; bunu sağlamak için soğuk su ile başlamak ve hiç karıştırmamak gerekir. Köpüğü iki seferde oluşturmak (önce köpüğü fincanına aktarmak) mükemmel sonuç verir."
+    },
+    {
+        "tarif_id": 24,
+        "tarif_adi": "Tahin Pekmezli Smoothie",
+        "kategori": "İçecekler",
+        "hazirlama_suresi": 40,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Muz (dondurulmuş)",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Tahin",
+                "miktar": "30 g"
+            },
+            {
+                "malzeme_adi": "Üzüm pekmezi",
+                "miktar": "20 g"
+            },
+            {
+                "malzeme_adi": "Süt veya badem sütü",
+                "miktar": "200 ml"
+            },
+            {
+                "malzeme_adi": "Tarçın",
+                "miktar": "2 g"
+            },
+            {
+                "malzeme_adi": "Buz",
+                "miktar": "5-6 küp (isteğe bağlı)"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Dondurulmuş muzu dilimlere ayırın.",
+            "Muz, tahin, pekmez ve sütü blendere alın.",
+            "Tarçını ekleyin.",
+            "Pürüzsüz ve kremamsı olana kadar yüksek hızda blende edin.",
+            "İsterseniz birkaç buz küpü ekleyerek tekrar blende edin.",
+            "Bardağa dökün; üzerine biraz tahin ve tarçın serperek servis edin."
+        ],
+        "puf_nokta": "Muzu önceden dondurursanız smoothie çok daha kıvamlı ve soğuk olur. Tahin dibinde katılaşabilir; iyice karıştırılmış kavanozdan kullanın."
+    },
+    {
+        "tarif_id": 25,
+        "tarif_adi": "Boza",
+        "kategori": "İçecekler",
+        "hazirlama_suresi": 56,
+        "malzemeler": [
+            {
+                "malzeme_adi": "İnce bulgur veya mısır unu",
+                "miktar": "300 g"
+            },
+            {
+                "malzeme_adi": "Su",
+                "miktar": "2000 ml"
+            },
+            {
+                "malzeme_adi": "Şeker",
+                "miktar": "200 g"
+            },
+            {
+                "malzeme_adi": "Kuru maya",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Ilık su (maya için)",
+                "miktar": "50 ml"
+            },
+            {
+                "malzeme_adi": "Leblebi ve tarçın (servis için)",
+                "miktar": "isteğe bağlı"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Bulguru veya mısır ununu 2000 ml su ile tencereye alın; sürekli karıştırarak 20-25 dakika pişirin.",
+            "Şekeri ekleyin ve karıştırın; ateşten alın, oda sıcaklığına soğumaya bırakın.",
+            "Maya ve ılık suyu karıştırın, 10 dakika bekletin.",
+            "Soğumuş karışımı süzgeçten geçirin; pürüzsüz hale getirin.",
+            "Çözülmüş mayayı ekleyin, iyice karıştırın.",
+            "Oda sıcaklığında 12-24 saat mayalanmaya bırakın; hafif ekşi koku oluşunca buzdolabına alın.",
+            "Soğuk olarak leblebi ve tarçın eşliğinde servis edin."
+        ],
+        "puf_nokta": "Bozanın mayalanma süresi ortam sıcaklığına göre değişir; sıcak ortamda 12 saat yeterlidir, soğuk ortamda 24-36 saate kadar uzayabilir. İstediğiniz ekşilik düzeyine ulaşınca hemen buzdolabına alın."
+    },
+    {
+        "tarif_id": 26,
+        "tarif_adi": "Fırında Baharatlı Nohut",
+        "kategori": "Atıştırmalıklar",
+        "hazirlama_suresi": 40,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Haşlanmış nohut",
+                "miktar": "400 g (2 kutu)"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "30 ml"
+            },
+            {
+                "malzeme_adi": "Pul biber",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Kimyon",
+                "miktar": "4 g"
+            },
+            {
+                "malzeme_adi": "Sarımsak tozu",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Karabiber",
+                "miktar": "2 g"
+            },
+            {
+                "malzeme_adi": "Limon kabuğu rendesi",
+                "miktar": "1 adet"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Fırını 200°C'ye önceden ısıtın.",
+            "Nohutları süzerek iyice kurulayın; ne kadar kuru olurlarsa o kadar çıtır olurlar.",
+            "Kuru kağıt havluyla hafifçe ovalayarak fazla nemini alın.",
+            "Bir kapta nohutları zeytinyağı, pul biber, kimyon, sarımsak tozu, tuz, karabiber ve limon kabuğu rendesiyle iyice karıştırın.",
+            "Yağlı kağıt serili fırın tepsisine tek kat halinde yayın.",
+            "Önceden ısıtılmış fırında 25-30 dakika, ara sıra sallayarak, altın rengi ve çıtır olana dek pişirin.",
+            "Fırından çıkardıktan sonra birkaç dakika oda sıcaklığında bekletip servis edin."
+        ],
+        "puf_nokta": "Nohutlar fırından çıktıkça oda sıcaklığında biraz daha sertleşir; çok uzun pişirmeyin. Aynı gün tüketirseniz çok daha çıtır olur."
+    },
+    {
+        "tarif_id": 27,
+        "tarif_adi": "Peynirli Mini Poğaça",
+        "kategori": "Atıştırmalıklar",
+        "hazirlama_suresi": 48,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Un",
+                "miktar": "350 g"
+            },
+            {
+                "malzeme_adi": "Yoğurt",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Sıvı yağ",
+                "miktar": "80 ml"
+            },
+            {
+                "malzeme_adi": "Kuru maya",
+                "miktar": "7 g (1 paket)"
+            },
+            {
+                "malzeme_adi": "Şeker",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Beyaz peynir (ufalanmış)",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Maydanoz (ince kıyılmış)",
+                "miktar": "15 g"
+            },
+            {
+                "malzeme_adi": "Yumurta sarısı (üzeri için)",
+                "miktar": "1 adet"
+            },
+            {
+                "malzeme_adi": "Çörek otu veya susam",
+                "miktar": "10 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Mayayı şeker ve 2-3 yemek kaşığı ılık suyla çözdürün, 5 dakika bekleyin.",
+            "Büyük bir kaba un, tuz, yoğurt ve sıvı yağı alın; çözülmüş mayayı ekleyin.",
+            "Yaklaşık 8-10 dakika yoğurarak kulak memesi kıvamında yumuşak bir hamur elde edin.",
+            "Hamuru örtün, ılık bir ortamda 30 dakika mayalanmaya bırakın.",
+            "Beyaz peyniri maydanozla karıştırarak iç harcını hazırlayın.",
+            "Kabaran hamurdan ceviz büyüklüğünde parçalar koparın, her birini yuvarlayıp bastırın ve içine biraz harç koyarak kapatın.",
+            "Yağlı kağıt serili tepsiye dizin, üzerine yumurta sarısı sürün, çörek otu veya susam serpin.",
+            "Önceden ısıtılmış 180°C fırında 20-22 dakika altın rengi olana dek pişirin."
+        ],
+        "puf_nokta": "Hamurun mayalanma süresini kısaltmamaya özen gösterin; bu adım poğaçaların kabarmasını sağlar. Fırından çıkar çıkmaz servis ederseniz dışı çıtır içi yumuşacık olur."
+    },
+    {
+        "tarif_id": 28,
+        "tarif_adi": "Kıtır Patates Cipsi",
+        "kategori": "Atıştırmalıklar",
+        "hazirlama_suresi": 35,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Patates (büyük)",
+                "miktar": "3 adet (yaklaşık 500 g)"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "25 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "6 g"
+            },
+            {
+                "malzeme_adi": "Kekik",
+                "miktar": "4 g"
+            },
+            {
+                "malzeme_adi": "Pul biber",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Sarımsak tozu",
+                "miktar": "3 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Fırını 190°C'ye ısıtın.",
+            "Patatesleri iyice yıkayın; kabuklarını soymadan çok ince dilimler halinde kesin (mandolin kullanırsanız daha düzgün olur).",
+            "Dilimlenmiş patatesleri soğuk suya atın ve 10 dakika bekletin; bu nişastayı alır ve cipsin daha çıtır olmasını sağlar.",
+            "Suyu süzüp kağıt havluyla iyice kurulayın.",
+            "Bir kapta zeytinyağı, tuz, kekik, pul biber ve sarımsak tozuyla karıştırın.",
+            "Yağlı kağıt serili tepsiye tek kat halinde yayın, üst üste gelmemelerine dikkat edin.",
+            "Fırında 20-25 dakika pişirin; kenarlardakileri erken kızarabilir, kontrol edin.",
+            "Fırından çıkardıktan sonra tepsinin üzerinde soğutun; soğudukça daha da sertleşir."
+        ],
+        "puf_nokta": "Patatesleri ne kadar ince keserseniz o kadar çıtır olur. Mikrodalgada da yapabilirsiniz: aralarına yağlı kağıt koyarak 4-5 dakika yüksek güçte pişirin."
+    },
+    {
+        "tarif_id": 29,
+        "tarif_adi": "Avokado Guacamole",
+        "kategori": "Atıştırmalıklar",
+        "hazirlama_suresi": 15,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Olgun avokado",
+                "miktar": "2 adet"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "20 ml"
+            },
+            {
+                "malzeme_adi": "Sarımsak",
+                "miktar": "1 diş"
+            },
+            {
+                "malzeme_adi": "Kırmızı soğan",
+                "miktar": "50 g"
+            },
+            {
+                "malzeme_adi": "Domates (çekirdeksiz, küçük doğranmış)",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Taze kişniş veya maydanoz",
+                "miktar": "15 g"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "4 g"
+            },
+            {
+                "malzeme_adi": "Karabiber",
+                "miktar": "2 g"
+            },
+            {
+                "malzeme_adi": "Pul biber (isteğe bağlı)",
+                "miktar": "2 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Avokadoları ikiye bölün, çekirdeklerini çıkarın ve eti bir kaba aktarın.",
+            "Limon suyunu hemen ekleyin; hem kararmasını önler hem de lezzet katar.",
+            "Çatal yardımıyla avokadoyu isteğe göre pürüzlü veya pürüzsüz ezin.",
+            "Sarımsağı ezip, kırmızı soğanı ve domatesi ince ince doğrayın.",
+            "Tüm malzemeleri avokadonun üzerine ekleyin ve iyice karıştırın.",
+            "Tuz ve karabiberi ekleyerek tadına göre ayarlayın.",
+            "Hemen servis edin veya üzerini streç film ile kaplayıp (avokadoya değecek şekilde) buzdolabında bekletin."
+        ],
+        "puf_nokta": "Guacamole'nin kararmaması için avokado çekirdeğini kasenin içinde bırakabilirsiniz; böylece daha uzun süre taze kalır."
+    },
+    {
+        "tarif_id": 30,
+        "tarif_adi": "Humus",
+        "kategori": "Atıştırmalıklar",
+        "hazirlama_suresi": 20,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Haşlanmış nohut",
+                "miktar": "400 g (1 kutu)"
+            },
+            {
+                "malzeme_adi": "Tahin",
+                "miktar": "60 g"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "40 ml (yaklaşık 1,5 limon)"
+            },
+            {
+                "malzeme_adi": "Sarımsak",
+                "miktar": "2 diş"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "40 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Kimyon",
+                "miktar": "3 g"
+            },
+            {
+                "malzeme_adi": "Buz gibi su",
+                "miktar": "50-80 ml"
+            },
+            {
+                "malzeme_adi": "Pul biber ve zeytinyağı (servis için)",
+                "miktar": "isteğe bağlı"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Nohutları süzerek kabuklarını ayıklayın; bu adım humusu çok daha kremamsı yapar.",
+            "Tahini ve limon suyunu blendere alın, 1 dakika çırpın; tahinin rengi açılır.",
+            "Sarımsak ve tuzu ekleyin, 30 saniye daha çırpın.",
+            "Nohutları yavaş yavaş ekleyerek blende edin.",
+            "Buz gibi suyu azar azar ilave ederek istediğiniz kıvama getirin.",
+            "Zeytinyağı ve kimyonu ekleyip son bir kez çırpın.",
+            "Servis tabağına alın, üzerine zeytinyağı gezdirin ve pul biber serpin."
+        ],
+        "puf_nokta": "Buz gibi su kullanmak humusun çok daha açık renkli ve kremamsı olmasını sağlar. Tahin ve limon suyunu önce ayrıca çırpmak ise en önemli sır; bu işlem tahinin acılığını alır."
+    },
+    {
+        "tarif_id": 31,
+        "tarif_adi": "Akdeniz Salatası",
+        "kategori": "Salatalar",
+        "hazirlama_suresi": 15,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Domates",
+                "miktar": "250 g"
+            },
+            {
+                "malzeme_adi": "Salatalık",
+                "miktar": "200 g"
+            },
+            {
+                "malzeme_adi": "Kırmızı soğan",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Yeşil zeytin (çekirdeksiz)",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Beyaz peynir",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Taze nane",
+                "miktar": "10 g"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "40 ml"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "20 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "4 g"
+            },
+            {
+                "malzeme_adi": "Kuru kekik",
+                "miktar": "3 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Domatesleri yarım ay şeklinde, salatalığı ise yarım aya veya küplere kesin.",
+            "Kırmızı soğanı ince halkalar halinde doğrayın; hafif acılığını gidermek için 5 dakika soğuk suda bekletin.",
+            "Zeytinleri süzün, beyaz peyniri iri parçalara bölün.",
+            "Tüm sebzeleri geniş bir kaseye alın.",
+            "Zeytinyağı, limon suyu, tuz ve kekiği bir kapta çırparak sosu hazırlayın.",
+            "Sosu salata üzerine gezdirin, taze nane yapraklarını ekleyin.",
+            "Hafifçe karıştırın ve hemen servis edin."
+        ],
+        "puf_nokta": "Sosu servisten hemen önce ekleyin; önceden eklerseniz sebzeler su bırakır ve salata sululaşır. Peyniri dağıtmamak için en son üzerine koyun."
+    },
+    {
+        "tarif_id": 32,
+        "tarif_adi": "Tavuklu Sezar Salatası",
+        "kategori": "Salatalar",
+        "hazirlama_suresi": 30,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Tavuk göğsü",
+                "miktar": "300 g"
+            },
+            {
+                "malzeme_adi": "Romaine marul (veya göbek marul)",
+                "miktar": "300 g"
+            },
+            {
+                "malzeme_adi": "Ekmek (eski, küp doğranmış)",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Parmesan peyniri (rendelenmiş)",
+                "miktar": "50 g"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "30 ml"
+            },
+            {
+                "malzeme_adi": "Sarımsak",
+                "miktar": "2 diş"
+            },
+            {
+                "malzeme_adi": "Mayonez",
+                "miktar": "60 g"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "20 ml"
+            },
+            {
+                "malzeme_adi": "Dijon hardalı",
+                "miktar": "10 g"
+            },
+            {
+                "malzeme_adi": "Worcestershire sos",
+                "miktar": "5 ml"
+            },
+            {
+                "malzeme_adi": "Tuz ve karabiber",
+                "miktar": "isteğe göre"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Tavuk göğsünü tuz, karabiber ve zeytinyağıyla marine edin; ızgara veya tavada her iki yüzünü de 6-7 dakika pişirin.",
+            "Tavuklar dinlenirken ekmek küplerini bir tavada zeytinyağı ve ezilmiş sarımsak ile kızartın; kruton hazır.",
+            "Sezar sosu için mayonez, limon suyu, dijon hardalı, worcestershire sos ve rendelenmiş parmesanın yarısını karıştırın.",
+            "Marul yapraklarını yıkayıp kurulayın ve iri parçalara ayırın.",
+            "Marulları geniş bir kaseye alın, sosu üzerine gezdirin.",
+            "Dinlenmiş tavuğu dilimleyerek üzerine ekleyin, krutonları ve kalan parmesanı serpin.",
+            "Karabiberi öğütün ve hemen servis edin."
+        ],
+        "puf_nokta": "Tavuğu pişirdikten sonra 5 dakika dinlendirmek sularını içinde tutar ve çok daha sulu olmasını sağlar. Sosu serin tutmak için malzemeleri servis öncesine kadar buzdolabında bekletin."
+    },
+    {
+        "tarif_id": 33,
+        "tarif_adi": "Semizotu Salatası",
+        "kategori": "Salatalar",
+        "hazirlama_suresi": 15,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Taze semizotu",
+                "miktar": "250 g"
+            },
+            {
+                "malzeme_adi": "Domates",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Salatalık",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Beyaz peynir",
+                "miktar": "80 g"
+            },
+            {
+                "malzeme_adi": "Ceviz",
+                "miktar": "50 g"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "35 ml"
+            },
+            {
+                "malzeme_adi": "Nar ekşisi",
+                "miktar": "15 ml"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "10 ml"
+            },
+            {
+                "malzeme_adi": "Tuz",
+                "miktar": "3 g"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Semizotunu iyice yıkayın, sert saplarını koparın ve süzgeçte süzerek kurulayın.",
+            "Domatesi ve salatalığı küçük küpler halinde doğrayın.",
+            "Beyaz peyniri ufalayın, cevizleri kaba kıyın veya elinizle kırın.",
+            "Zeytinyağı, nar ekşisi, limon suyu ve tuzu bir kasede çırparak sos hazırlayın.",
+            "Semizotunu servis tabağına alın, üzerine domates, salatalık, peynir ve cevizi ekleyin.",
+            "Sosu üzerine gezdirin ve hafifçe karıştırarak servis edin."
+        ],
+        "puf_nokta": "Semizotunun sulanmaması için sosu son anda ekleyin. Nar ekşisi yoksa üzüm sirkesi de kullanabilirsiniz; ancak miktarı yarıya indirin."
+    },
+    {
+        "tarif_id": 34,
+        "tarif_adi": "Mercimekli Bulgur Salatası",
+        "kategori": "Salatalar",
+        "hazirlama_suresi": 30,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Yeşil veya siyah mercimek (haşlanmış)",
+                "miktar": "200 g"
+            },
+            {
+                "malzeme_adi": "İnce bulgur",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Kaynar su",
+                "miktar": "150 ml"
+            },
+            {
+                "malzeme_adi": "Domates",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Salatalık",
+                "miktar": "100 g"
+            },
+            {
+                "malzeme_adi": "Taze soğan",
+                "miktar": "50 g"
+            },
+            {
+                "malzeme_adi": "Maydanoz",
+                "miktar": "30 g"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı",
+                "miktar": "40 ml"
+            },
+            {
+                "malzeme_adi": "Nar ekşisi",
+                "miktar": "20 ml"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "20 ml"
+            },
+            {
+                "malzeme_adi": "Tuz, karabiber, kimyon",
+                "miktar": "isteğe göre"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Bulguru bir kaba alın, üzerine kaynar suyu ve bir tutam tuzu ekleyin; kapağını kapatıp 15 dakika şişmeye bırakın.",
+            "Bu sürede mercimeği haşlayın (önceden haşlıysa süzün ve soğutun).",
+            "Domates ve salatalığı küçük küpler, taze soğanı ve maydanozu ince ince doğrayın.",
+            "Şişen bulguru çatalla kabartın ve mercimekle birlikte geniş bir kaseye alın.",
+            "Zeytinyağı, nar ekşisi, limon suyunu karıştırarak sosu hazırlayın.",
+            "Tüm sebzeleri ve sosu üzerine ekleyip iyice karıştırın.",
+            "Tuz, karabiber ve kimyonla tadını ayarlayın; en az 10 dakika dinlendirin."
+        ],
+        "puf_nokta": "Salata ne kadar bekler (en az 30 dakika) o kadar lezzetli olur; baharatlar ve sos malzemelere iyice işler. Oda sıcaklığında veya soğuk servis edilebilir."
+    },
+    {
+        "tarif_id": 35,
+        "tarif_adi": "Roka ve Parmesan Salatası",
+        "kategori": "Salatalar",
+        "hazirlama_suresi": 10,
+        "malzemeler": [
+            {
+                "malzeme_adi": "Taze roka",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Cherry domates",
+                "miktar": "150 g"
+            },
+            {
+                "malzeme_adi": "Parmesan peyniri (ince dilimlenmiş)",
+                "miktar": "60 g"
+            },
+            {
+                "malzeme_adi": "Ceviz veya çam fıstığı",
+                "miktar": "40 g"
+            },
+            {
+                "malzeme_adi": "Zeytinyağı (iyi kalite)",
+                "miktar": "35 ml"
+            },
+            {
+                "malzeme_adi": "Balzamik sirke",
+                "miktar": "15 ml"
+            },
+            {
+                "malzeme_adi": "Limon suyu",
+                "miktar": "10 ml"
+            },
+            {
+                "malzeme_adi": "Bal",
+                "miktar": "5 g"
+            },
+            {
+                "malzeme_adi": "Tuz ve taze çekilmiş karabiber",
+                "miktar": "isteğe göre"
+            }
+        ],
+        "degerlendirmeler": [],
+        "yapilis": [
+            "Rokayı iyice yıkayıp kurulayın.",
+            "Cherry domatesleri ikiye kesin.",
+            "Cevizleri kuru tavada hafifçe kavurun; bu adım kokuyu ve lezzeti artırır.",
+            "Zeytinyağı, balzamik sirke, limon suyu ve balı bir kapta çırparak sos hazırlayın.",
+            "Rokayı servis tabağına alın, üzerine domatesleri ve cevizleri ekleyin.",
+            "Parmesan dilimlerini veya talaşlarını üzerine koyun.",
+            "Sosu gezdirin, tuz ve karabiber serpin; hemen servis edin."
+        ],
+        "puf_nokta": "Parmesan peynirleri ince dilim yerine sebze soyacağıyla ince talaşlar halinde kesilirse hem şık görünür hem de her lokmayla daha fazla peynir tadı alırsınız."
+    }
+]
